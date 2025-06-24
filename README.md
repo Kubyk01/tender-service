@@ -1,7 +1,19 @@
-# tender-service
-Start tender-service
+#Tender-service
+How to Start the Service
+
+# Navigate to the project directory
 cd tender-service
+
+# Build the project
 mvn clean install
+
+# Start the service using Docker Compose
 docker-compose up --build
 
-Project need at least 200 megabytes of RAM and at least 1 core of procesor to work properly. Also, it need access to internet to parsing service work properly
+Requirements
+
+    Minimum 200 MB of RAM
+
+    At least 1 CPU core
+
+    Internet access is required for the parsing service to function correctly
