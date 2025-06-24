@@ -1,0 +1,12 @@
+INSERT INTO participant (type, name) VALUES ('ТОВ', 'АДМ ЕНЕРДЖІ');
+INSERT INTO participant (type, name) VALUES ('ТОВ', 'ДМ ПРОФ');
+INSERT INTO participant (type, name) VALUES ('ТОВ', 'АДМ ІНДАСТРІ');
+INSERT INTO participant (type, name) VALUES ('ТОВ', 'САННІ ВЕЛЛІ');
+INSERT INTO participant (type, name) VALUES ('ТОВ', 'ДЕЗАКСАНТ');
+INSERT INTO participant (type, name) VALUES ('ТОВ', 'ВК ПОСТАЧ');
+INSERT INTO participant (type, name) VALUES ('ФОП', 'Павлючик М.В.');
+INSERT INTO participant (type, name) VALUES ('ФОП', 'Павлючик Т.М.');
+INSERT INTO participant (type, name) VALUES ('ФОП', 'Левицька О.П.');
+INSERT INTO participant (type, name) VALUES ('ФОП', 'КРУЧИН БОРИС ІВАНОВИЧ');
+INSERT INTO participant (type, name) VALUES ('ФОП', 'Котова');
+INSERT INTO participant (type, name) VALUES ('ФОП', 'Хорун');
